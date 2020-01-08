@@ -1,0 +1,5 @@
+="torch"1
+"flint"1
+"cloth"2
+="leather shirt"1
+"tanned leather"5

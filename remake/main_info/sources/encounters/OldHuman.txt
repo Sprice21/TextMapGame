@@ -1,0 +1,8 @@
+!EM
+/s/",":2 ";":5
+/n/"Old Human" "an" "the"
+/st/1 1 20 3 2	
+/l//
+"iron sword" 0,2
+leather 1,4
+/l//

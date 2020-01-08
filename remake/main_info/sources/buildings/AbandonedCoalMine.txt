@@ -1,0 +1,19 @@
+!BM
+/n/"Abandoned Coal Mine"
+/a/BT
+/e//
+r(100):
+d"Explore the Cave"u"torch" 2
+#
+tA/c C
+l//
+"coal" 3,6
+l//
+#
+d"Leave"
+#
+#
+r
+d"Leave the Cave"
+/e//
+/sn/1 10 5

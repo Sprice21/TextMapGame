@@ -1,0 +1,9 @@
+!BM
+/n/"Wild Outpost"
+/a/BT
+/a/RPW
+/t/P
+/l//
+"cured meat" 1,4
+/l//
+/tA/p P

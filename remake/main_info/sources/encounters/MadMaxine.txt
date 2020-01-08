@@ -1,0 +1,7 @@
+!EM
+/s/";":1
+/n/"Mad Maxine" "an" "the"
+/st/1 1 20 3 2	
+/l//
+"crawler" 1,2
+/l//

@@ -1,0 +1,4 @@
+"H":"House"
+"P":"Outpost"
+"A":"AbandonedCoalMine"
+"C":"CoalMine"

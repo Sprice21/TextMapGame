@@ -1,0 +1,6 @@
+#/%condition%/%choice%
+#a c d r i
+#conditions - all:all, p<%health%:player less than x health, e<%health%:enemy less than x health, charged:charged, else:else
+/p<30/r
+/charged/a
+/else/c

@@ -1,0 +1,16 @@
+!EM
+/s/"Terrain":RarityOutOf100 "Terrain":RarityOutOf100
+/n/"Name" "Indefinate Article" "Definite Article"
+/st/ Precision Speed MaxHealth Damage Armour
+
+#anything after a '#' on a line is ignored, as are blank lines or invalid commands
+#most things are space seperated
+
+!BM
+/a/ attribute command
+/a/BT : pathbuild
+/a/RW (replenish water)
+
+
+/t/transform
+/tA/replace until stockpile

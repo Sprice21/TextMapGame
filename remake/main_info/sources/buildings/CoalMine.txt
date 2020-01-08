@@ -1,0 +1,6 @@
+!BM
+/n/"Coal Mine"
+/tA/c C
+/l//
+"coal" 3,7
+/l//

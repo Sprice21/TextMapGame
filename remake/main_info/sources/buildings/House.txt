@@ -1,0 +1,44 @@
+!BM
+/e//
+r(30):
+d"Explore the attic"u"torch" 1
+#
+l//
+"cloth" 1,5
+l//
+#
+d"Leave"
+r(40):
+d"Head to the farmhouse"
+#
+l//
+"meat" 1,4
+"flesh" 3,5
+"leather" 2,4
+l//
+#
+d"Head to the stockpile"
+#
+l//
+"iron sword" 0,2
+"steel" 0,3
+"torch" 2,4
+l//
+#
+r(100):
+d"loot the house"
+#
+l//
+"cured meat" 1,5
+"thatch" 4,9
+"cloth" 1,2
+l//
+#
+r
+/e//
+/s/",":0.01
+/n/"Old House"
+/sn/3 6 1
+/a/BT
+/a/RPW
+/tA/p P

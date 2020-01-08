@@ -1,0 +1,23 @@
+"iron" 8
+"thatch" 5
+"flint" 6
+"meat" 5
+"crawler" 100
+"tanned leather" 3
+"flesh" 2
+"cured meat" 5
+"leather shirt" 30
+"iron sword" 3
+"cloth" 2
+"leather pants" 10
+"stone" 10
+"rifle bullets" 25
+"fuel" 5
+"timber" 5
+"leather" 3
+"steel" 10
+"hunting rifle" 10
+"coal" 6
+"gold" 12
+"steel sword" 20
+"torch" 8
